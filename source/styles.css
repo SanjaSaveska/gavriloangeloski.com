@@ -1,0 +1,133 @@
+html, body { overflow-x: hidden; }
+
+ /*navbar css*/
+.navbar { 
+    background-color:white;
+       margin-bottom:0px; 
+}
+
+.container-fluid{
+    padding-left:0px;
+    padding-right:0px;
+}
+
+/*jumbotron css*/
+
+.jumbotron {
+    border-radius: 0px; 
+    margin-bottom:0px;
+}
+
+.paral {
+    min-height: 300px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.paral h1 {
+    color: white;
+    text-align: center;
+    font-weight:500;
+    letter-spacing:0.1rem;
+    line-height:1;
+}
+#gd{
+    color: white;
+    text-align: center;
+}
+.paralsec{
+    background-image:url("img/backgrounds/05b.jpg");
+}
+
+
+/*index specific style*/
+.padd{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+/*graphic design part*/
+
+.paral1{
+        min-height: 400px;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: 50% 50%;
+        padding:40px;
+ }
+    .paralsec1{
+        background-image:url("img/backgrounds/17.jpg");
+ }
+.paral1 h1{
+   text-align:center;
+   font-size:3rem;
+    
+}
+.paral1 h1 a{
+    text-decoration:none;
+    color: black;
+}
+
+.smPic{
+    background-color:transparent!important;
+    padding:.50rem;
+    margin:3px;
+    border:none;
+}
+
+
+/*photography section*/
+.paral2{
+    min-height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding:40px;
+}
+.paralsec2{
+    background-color:#8aada6;
+}
+.paral2 h1{
+    text-align:center;
+    font-size:3rem;
+     
+ }
+ .paral2 h1 a{
+     text-decoration:none;
+     color: white;
+ }
+ #photoButton{
+    margin:10px;
+     
+ }
+
+ /*About me part*/
+
+.paral3{
+    min-height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.paralsec3{
+    background-image:url("img/backgrounds/31.jpg");
+}
+/*contact part*/
+.paral4 {
+    min-height: 300px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding:40px;
+}
+.paralsec4{
+    background-image:url("img/backgrounds/03.jpg");
+}
+.paral4 h2{
+    font-size:3rem;
+}
+#contactForm{
+ max-width:500px;
+}
+
+ 
